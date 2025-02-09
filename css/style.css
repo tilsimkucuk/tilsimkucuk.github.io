@@ -1,11 +1,13 @@
 .specialsection{
 	 background-image: url('../img/R.jpg');
 	 background-size: cover;
-	 padding-top: 200px;
+	 padding-top: 150px;
 }
 h1{
 	text-align: center;
 	font-size: 60px;
+	
+	text-decoration-line: underline;
 
 }
 h2{
@@ -32,12 +34,14 @@ body{
 }
 .bow{
 	background-color: #C9E9D2;
+
 }
 .bow2{
 	background-color: #AFC8AD;
 }
 h5{
 	font: 30px Times New Roman, serif;
+	color: #EB3678;
 }
 .bow3{
 	font: 30px Times New Roman, serif;
@@ -50,4 +54,5 @@ h3{
 }
 .tılsım{
 	font: 20px Times New Roman, serif;
+	color: ;
 }
