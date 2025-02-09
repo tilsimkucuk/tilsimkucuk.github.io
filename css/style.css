@@ -5,5 +5,49 @@
 }
 h1{
 	text-align: center;
-	
+	font-size: 60px;
+
+}
+h2{
+	text-align: center;
+	font-size: 40px;
+	margin-top: 30px;
+	font-style: oblique;
+	color: #000B58;
+
+}
+.almira{
+	margin-top: 30px;
+}
+.beren{
+	margin-top: 30px;
+	width: 100%;
+}
+.ateş{
+	margin-top: 30px;
+	width: 100%;
+}
+body{
+	background-color: #D0DDD0;
+}
+.bow{
+	background-color: #C9E9D2;
+}
+.bow2{
+	background-color: #AFC8AD;
+}
+h5{
+	font: 30px Times New Roman, serif;
+}
+.bow3{
+	font: 30px Times New Roman, serif;
+	size: 60px;
+}
+h3{
+	font: 30px Times New Roman, serif;
+	color: #000B58;
+	text-align: center;
+}
+.tılsım{
+	font: 20px Times New Roman, serif;
 }
